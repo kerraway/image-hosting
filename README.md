@@ -1,2 +1,1 @@
-# image-hosting
-图床
+#### 自用图床，使用 Alfred 自动上传。
